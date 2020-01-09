@@ -1,2 +1,5 @@
 # grid
-first trial and error 
+first 
+trial and error 
+
+errors make a coder
