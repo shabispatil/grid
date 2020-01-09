@@ -1,0 +1,8 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.wrapper {
+  display: grid;
+  grid-template-columns: 70% 30%;
+}
